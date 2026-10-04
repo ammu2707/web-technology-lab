@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Class Timetable</title>
+ <style>
+ table {
+ border-collapse: collapse;
+ width: 80%;
+ margin: 20px auto;
+ }
+ th, td {
+ border: 1px solid black;
+ text-align: center;
+ padding: 8px;
+ }
+ th {
+ background-color: #f2f2f2;
+ }
+ </style>
+</head>
+<body>
+ <h1 style="text-align: center;">Class Timetable</h1>
+ <table>
+ <tr>
+ <th>Day</th>
+ <th>9:00-10:00</th>
